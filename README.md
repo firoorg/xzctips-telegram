@@ -15,7 +15,7 @@
 ## Setup
 
 * Download the git
-`git clone https://github.com/mrmikeo/XZCtips-telegram`
+`git clone https://github.com/zcoinofficial/xzctips-telegram`
 
 * Setup a bot with the user @BotFather through PM on Telegram, after going through a setup you will be given a bot token. Edit the command.py file and replace the parameter 'BOT_TOKEN' with the one you just recieved. 
 
